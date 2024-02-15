@@ -1,0 +1,8 @@
+{
+  "activation_func": "ReLU",
+  "max_epochs": [
+    500,
+    500,
+    500
+  ]
+}
